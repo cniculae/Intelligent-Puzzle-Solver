@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1479255656 source:c:\code\courseworks\comp2208\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	"State.h"
+	"TreeSearcher.h"
+
+1479255481 c:\code\courseworks\comp2208\state.h
+	<vector>
+	<set>
+	<map>
+
+1479256538 c:\code\courseworks\comp2208\treesearcher.h
+	<map>
+	<queue>
+	<stack>
+
